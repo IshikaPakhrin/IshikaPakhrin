@@ -53,7 +53,8 @@ Completed real-world cloud tasks across AWS and Firebase — including S3 storag
 ---
  
 ## 📬 Let's Connect
- 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishika%20Pakhrin-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishika-pakhrin-063900356)
 [![GitHub](https://img.shields.io/badge/GitHub-IshikaPakhrin-181717?style=flat&logo=github)](https://github.com/IshikaPakhrin)
  
 ---
