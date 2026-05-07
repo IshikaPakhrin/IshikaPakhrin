@@ -18,7 +18,7 @@ A full-stack web application that streamlines grievance submission and tracking 
  
 ## ☁️ Certification
  
-**AWS Cloud Quest: Cloud Practitioner — Gen AI** &nbsp;·&nbsp; 2024  
+**AWS Cloud Quest: Cloud Practitioner — Gen AI** &nbsp;·&nbsp; 2025
 Hands-on, role-based learning covering cloud foundations and generative AI on AWS.
  
 ---
