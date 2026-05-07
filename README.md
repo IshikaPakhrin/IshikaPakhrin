@@ -1,45 +1,61 @@
-# 👋 Hi there, I'm Ishika!
-
-🌥️ Cloud Computing Intern | 🌐 Aspiring Web Developer | 📚 Lifelong Learner
-
-I'm currently exploring the exciting world of web development and cloud computing. I recently completed a **cloud computing internship** where I worked on 4 real-world tasks using **AWS**, **Firebase**, and **GitHub**, integrating cloud technologies with simple web-based solutions.
-
+# Hi, I'm Ishika 👋
+ 
+🎓 Final-year CS student &nbsp;·&nbsp; 🌐 Frontend Developer &nbsp;·&nbsp; ☁️ AWS Certified &nbsp;·&nbsp; 🤖 Aspiring AI/ML Learner
+ 
+> Building clean interfaces and cloud-integrated solutions, one commit at a time.
+ 
 ---
-
-## 💡 Internship Projects
-
-Here are the tasks I completed during my internship:
-
-🔹 [Task 1: Cloud Storage Setup](https://github.com/IshikaPakhrin/task-1-cloud-storage-setup)  
-Created an AWS S3 bucket and hosted public files with access permissions.
-
-🔹 [Task 2: Cloud Monitoring & Alerts](https://github.com/IshikaPakhrin/task-2-cloud-monitoring-alerts)  
-Configured EC2 monitoring using CloudWatch with custom alarm setup.
-
-🔹 [Task 3: Multi-Cloud Architecture](https://github.com/IshikaPakhrin/task-3-multi-cloud-architecture)  
-Built a working integration between AWS S3 frontend and Firebase Realtime Database.
-
-🔹 [Task 4: Cloud Security Implementation](https://github.com/IshikaPakhrin/task-4-cloud-security-implementation)  
-Implemented IAM policies and enabled encryption for secure cloud storage.
-
+ 
+## 🚀 Currently Building
+ 
+### 🔷 Smart Grievance Portal
+A full-stack web application that streamlines grievance submission and tracking for end users and administrators.
+ 
+- **My role**: Frontend Developer — UI architecture, component design, and user experience
+- **Stack**: HTML, CSS, JavaScript (frontend) · Full-stack team project
+- **Status**: 🟢 In progress
 ---
-
+ 
+## ☁️ Certification
+ 
+**AWS Cloud Quest: Cloud Practitioner — Gen AI** &nbsp;·&nbsp; 2024  
+Hands-on, role-based learning covering cloud foundations and generative AI on AWS.
+ 
+---
+ 
 ## 🛠️ Skills & Technologies
-
-- ☁️ **Cloud Platforms**: AWS S3, EC2, CloudWatch, IAM, Firebase
-- 🌐 **Web Development**: HTML, CSS, JavaScript
-- 🔒 **Security**: IAM policies, S3 encryption (SSE-S3)
-- 🔧 **Tools**: Git, GitHub, VS Code, Draw.io
-- 📈 **Monitoring**: CloudWatch Metrics, Dashboards & Alarms
-
+ 
+**Frontend Development**
+- HTML5, CSS3, JavaScript (ES6+)
+- Responsive design, UI/UX principles
+**Cloud Computing**
+- AWS: S3, EC2, CloudWatch, IAM
+- Firebase Realtime Database
+- Cloud security: IAM policies, S3 encryption (SSE-S3)
+- Monitoring: CloudWatch metrics, dashboards & alarms
+**Tools**
+- Git & GitHub
+- VS Code, Draw.io
 ---
-
-## 📌 Currently Exploring
-
-- Full-stack development (MERN basics)
-- Building cloud-integrated web apps
-- GitHub workflows and open source collaboration
-
+ 
+## 💼 Experience
+ 
+**Cloud Computing Intern** &nbsp;·&nbsp; 2025 · Completed  
+Completed real-world cloud tasks across AWS and Firebase — including S3 storage setup, EC2 monitoring & alerts, multi-cloud architecture (AWS + Firebase), and IAM-based security implementation.
+ 
 ---
-
-> 🌟 Let's build, deploy, and grow — one line of code at a time!
+ 
+## 📚 Currently Exploring
+ 
+- 🤖 **AI/ML** — Genuinely curious about how machine learning works; planning to start learning soon and combine it with my cloud and frontend background
+- ⚛️ **React & MERN basics** — Levelling up from vanilla JS into component-driven development
+- 🔄 **GitHub workflows** — CI/CD basics and open-source collaboration
+---
+ 
+## 📬 Let's Connect
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-IshikaPakhrin-181717?style=flat&logo=github)](https://github.com/IshikaPakhrin)
+ 
+---
+ 
+*Final year, full energy — let's build something great.*
